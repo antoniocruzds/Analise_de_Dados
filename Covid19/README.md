@@ -6,6 +6,8 @@
     
 <p align="center">O seguinte projeto é uma análise de dados referentes a COVID-19. Ele busca apresentar algumas informações sobre a letalidade da dença com enfoque nos municipios Baianos e seus IDH's.</p>
 
+**<p align="center">Atencion!! Para uma melhor visualisação dos gráficos, abra no colab</p>**
+
 Dados utilizados: 
 Dados|Link|
 -|-|
