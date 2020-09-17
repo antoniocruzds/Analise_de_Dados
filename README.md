@@ -6,4 +6,6 @@
     
 <p align="center">Esta pasta contém alguns projetos na área de Data Analysis.</p>
 
-*<p align="center"> Todos apresentam um README com as informações necessarias e os dados usados</p>*
+*<p align="center"> Todos apresentam um README com as informações necessárias e os dados usados</p>*
+
+---
