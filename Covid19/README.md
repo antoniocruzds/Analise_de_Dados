@@ -1,7 +1,7 @@
 # <p align="center">Análise de dados sobre a COVID-19 </p>
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/proxy/6fG4bQO76wQaeWUz4GDIracp11Oo-59yZH7-7hPTtysAVlvxda3T1ByT-Ir4ljhdoaM2RCWGMCsUjB-ponBCGsBX4Abw6K-ChUn1Wvf-P5Rn6Zo">
+  <img src="https://cdn.pixabay.com/photo/2020/03/31/02/20/virus-4986015_960_720.png">
     </p>
     
 <p align="center">O seguinte projeto é uma análise de dados referentes a COVID-19. Ele busca apresentar algumas informações sobre a letalidade da dença com enfoque nos municipios Baianos e seus IDH's.</p>
