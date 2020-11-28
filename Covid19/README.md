@@ -11,8 +11,12 @@
 Dados utilizados: 
 
 [Corona Virus Brasil](https://covid.saude.gov.br)
+
 [Atlas de Desenvolvimento Humanos Brasil 2013](http://atlasbrasil.org.br/2013/pt/download/)
+
 [Malha da estrutura territorial](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/15774-malhas.html?=&t=downloads)
+
 [Brasil Municípios](https://github.com/programacaodinamica/analise-dados/blob/master/dados/brasil-municipios.csv)
 
-O Projeto foi desencvolvido a partir de um curso de Visualização de Dados em Python ministrado por Kyzzi do canal Programação dinâmica: https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg
+
+O Projeto foi desenvolvido a partir de um curso de Visualização de Dados em Python, ministrado por Kyzzi do canal Programação dinâmica: https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg
