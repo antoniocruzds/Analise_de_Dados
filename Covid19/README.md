@@ -6,15 +6,13 @@
     
 <p align="center">O seguinte projeto é uma análise de dados referentes a COVID-19. Ele busca apresentar algumas informações sobre a letalidade da dença com enfoque nos municipios Baianos e seus IDH's.</p>
 
-**<p align="center">Atencion!! Para uma melhor visualisação dos gráficos, abra no colab</p>**
+**<p align="center">Atencion!! Para uma melhor visualisação dos gráficos, abra no google colab</p>**
 
 Dados utilizados: 
-Dados|Link|
--|-|
-Corona Virus Brasil | https://covid.saude.gov.br/|
-Atlas de Desenvolvimento Humanos Brasil 2013 |http://atlasbrasil.org.br/2013/pt/download/|
-Malha da estrutura territorial | https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/15774-malhas.html?=&t=downloads|
-Brasil Municípios | https://github.com/programacaodinamica/analise-dados/blob/master/dados/brasil-municipios.csv|
--|-|
+
+[Corona Virus Brasil](https://covid.saude.gov.br)
+[Atlas de Desenvolvimento Humanos Brasil 2013](http://atlasbrasil.org.br/2013/pt/download/)
+[Malha da estrutura territorial](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/15774-malhas.html?=&t=downloads)
+[Brasil Municípios](https://github.com/programacaodinamica/analise-dados/blob/master/dados/brasil-municipios.csv)
 
 O Projeto foi desencvolvido a partir de um curso de Visualização de Dados em Python ministrado por Kyzzi do canal Programação dinâmica: https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg
